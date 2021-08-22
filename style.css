@@ -1,0 +1,21 @@
+.timer {
+    display: flex;
+    justify-content:space-evenly;
+    margin: 200px;
+   font-size: 20px;
+}
+
+.field {
+    border-radius: 10px;
+    background-color:darkgray;
+    color:dodgerblue;
+    display: grid;
+    text-align: center;
+    width: 100px;
+    height: auto;
+}
+
+.value {
+    color:skyblue;
+    font-size: 40px;
+}
